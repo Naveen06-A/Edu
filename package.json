@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/metro-config": "^0.17.5",
+    "@expo/metro-config": "^0.18.11",
     "@expo/metro-runtime": "~3.2.3",
     "@types/react": "~18.2.79",
     "expo": "~51.0.0",

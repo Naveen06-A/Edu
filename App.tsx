@@ -25,7 +25,7 @@ export default function App() {
   return (
     <View style={{ padding: 20, marginTop: 50 }}>
       <TextInput
-        placeholder="Add a todo"
+        placeholder="Add a todo palce"
         value={inputText}
         onChangeText={setInputText}
         style={{ borderBottomWidth: 1, marginBottom: 10 }}
